@@ -33,3 +33,5 @@ print(frutas)
 """"As estruturas de dados em Python nos oferecem grande flexibilidade e potência para armazenar e manipular dados em nossos programas.
  As listas são úteis para coleções ordenadas e mutáveis, as tuplas para coleções ordenadas e imutáveis, os dicionários para armazenar 
  pares de chave valor e os conjuntos para coleções não ordenadas de elementos únicos"""
+
+#teste comentário
